@@ -12,6 +12,16 @@
 // the quantity bought.
 // fn calculate_price_of_apples(???) -> ??? { ??? }
 
+fn calculate_price_of_apples(apples : i32) -> i32 {
+    if apples > 40 {
+        apples  // Price reduced to 1 rustbuck per apple for more than 40 apples.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here.  // Your implementation goes here
+    } else {
+        apples * 2
+    }
+}
+
+
+
 fn main() {
     // You can optionally experiment here.
 }
